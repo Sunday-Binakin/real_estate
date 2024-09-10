@@ -1,0 +1,45 @@
+<div class="footer-container">
+            <div class="logo-side">
+                <h1>$$$ Real Estate</h1>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium recusandae soluta, in
+                    consequuntur
+                    libero velit? Ullam nemo blanditiis dignissimos fuga eius, culpa placeat repellendus neque est
+                    exercitationem veritatis et esse.</p>
+                <button><a class="hiring_button" href="">WE ARE HIRING</a></button>
+            </div>
+            <div class="vertical-line">
+
+            </div>
+            <div class="other-side">
+                <div class="company-div">
+                    <h3>Company</h3>
+                    <h3>About us</h3>
+                    <h3>Services</h3>
+                    <h3>Clients</h3>
+                    <h3>Careers</h3>
+                </div>
+                        <div class="buyers-div">
+                            <h3>For Buyers</h3>
+                            <h3>Papers</h3>
+                            <h3>Clients</h3>
+                            <h3>Testimonials</h3>
+                            <h3>Homes</h3>
+                        </div>
+                            <div class="sellers-div">
+                                <h3>For Sellers</h3>
+                                <h3>Sell With us</h3>
+                                <h3>Clients</h3>
+                                <h3>Testimonials</h3>
+                                <h3>Homes</h3>
+                            </div>
+                            <div class="renters-div">
+                                <h3>Rent with us</h3>
+                                <h3>Guidelines</h3>
+                                <h3>Apartments</h3>
+                                <h3>Flats</h3>
+                                <h3>Houses</h3>
+                            </div>
+
+                        
+            </div>
+        </div>
